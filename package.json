@@ -7,6 +7,14 @@
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriyiskra/ajs-iskra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmitriyiskra/ajs-iskra/issues"
+  },
+  "homepage": "https://github.com/dmitriyiskra/ajs-iskra#readme",
   "author": "",
   "license": "ISC",
   "devDependencies": {
